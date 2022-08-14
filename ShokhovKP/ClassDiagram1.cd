@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShokhovKP.BaseRepresentation">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAgAIBAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.BronKerbosch">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAACAAAACA=</HashCode>
+      <FileName>BronKerbosch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Clique">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Clique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.DemoGraph">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAACAAAACgAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>DemoGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.FO">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAgAAAAAAAAAABAAAAACAgA=</HashCode>
+      <FileName>FO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.GFG">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAIAAAAAAAAAACAAAAABFEAAYAAAAAAA=</HashCode>
+      <FileName>GFG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.MainWindow">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="aboutAuthor" Hidden="true" />
+      <Field Name="aboutGraph" Hidden="true" />
+      <Field Name="aboutGraph1" Hidden="true" />
+      <Field Name="aboutGraph2" Hidden="true" />
+      <Field Name="aboutProgram" Hidden="true" />
+      <Field Name="BuildGraph1" Hidden="true" />
+      <Field Name="BuildGraph2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="DemoButton" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="errorProvider1" Hidden="true" />
+      <Field Name="FOBox" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Field Name="groupBox7" Hidden="true" />
+      <Field Name="groupBox8" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="IsDirectedEdges" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="listOfSubGraphBox1" Hidden="true" />
+      <Field Name="listOfSubGraphBox2" Hidden="true" />
+      <Field Name="loadGraphs" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="numberEdges" Hidden="true" />
+      <Field Name="numberNodes" Hidden="true" />
+      <Field Name="pictureGraphBox1" Hidden="true" />
+      <Field Name="pictureGraphBox2" Hidden="true" />
+      <Field Name="saveGraphs" Hidden="true" />
+      <Field Name="summaryBox" Hidden="true" />
+      <Field Name="toolStripMenuItem1" Hidden="true" />
+      <Field Name="заполнениеГрафовToolStripMenuItem" Hidden="true" />
+      <Field Name="інформаціяToolStripMenuItem" Hidden="true" />
+      <Field Name="побудуватиToolStripMenuItem" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AwCgSAAECOAgiBAaAwCAAEUSCAAAEAEIYOAACICgYAE=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.PaintGraph">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACAAAAgAABAAQAACAIAAAQAAgAAAAAAQAAAAA=</HashCode>
+      <FileName>PaintGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Program">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Exceptions.NegativeVertexValueException">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NegativeVertexValueException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Exceptions.NonSquareMmatrixRepresentation">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NonSquareMmatrixRepresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Exceptions.NullVertexValueException">
+    <Position X="8.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NullVertexValueException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Exceptions.NumberOfEdgesOverMaximumException">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NumberOfEdgesOverMaximumException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Properties.Resources">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.Properties.Settings">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShokhovKP.CompareGraphs">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ShokhovKP.CompareGraphs.Vector">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="ShokhovKP.CompareGraphs.Vector.PowerAndCount">
+            <TypeIdentifier>
+              <NewMemberFileName>CompareGraphs.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>CompareGraphs.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAGAABAIAAAAAAEAAAIEAAAAAAAAAAAAABAAAAAgAA=</HashCode>
+      <FileName>CompareGraphs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1972
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShokhovKP", "ShokhovKP\ShokhovKP.csproj", "{CEFEEEC7-372B-44FF-B1BB-E39ACD255793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{8850AB9E-E4B9-4EA2-9B1F-66EAE1D2B320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CEFEEEC7-372B-44FF-B1BB-E39ACD255793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEFEEEC7-372B-44FF-B1BB-E39ACD255793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEFEEEC7-372B-44FF-B1BB-E39ACD255793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8850AB9E-E4B9-4EA2-9B1F-66EAE1D2B320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8850AB9E-E4B9-4EA2-9B1F-66EAE1D2B320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8850AB9E-E4B9-4EA2-9B1F-66EAE1D2B320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8850AB9E-E4B9-4EA2-9B1F-66EAE1D2B320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
